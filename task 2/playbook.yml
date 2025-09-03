@@ -1,0 +1,5 @@
+- name: "Task 2 create nginx and configure it using ansible"
+  hosts: all
+  become: true
+  roles:
+    - nginx-setup

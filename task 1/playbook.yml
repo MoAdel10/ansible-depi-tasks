@@ -1,0 +1,5 @@
+- name: a playbook to install my-sql
+  become: true
+  hosts: all
+  role:
+    - sql-installer
