@@ -1,4 +1,4 @@
-Role Name
+nginx-setup
 =========
 
 A brief description of the role goes here.
